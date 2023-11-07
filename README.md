@@ -36,4 +36,9 @@ Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
   
 ![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/a5d5e260-dd08-4097-9fb4-903879c08d2b)
 
+## Como executar os modelos?
+Altere o caminho para localizar as imagens e embaralhe-as para testar o script.
+
+![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/6d04b402-979f-48fd-ad02-9782ef64cd7d)
+
 Tenho uma dedicação inabalável por desafios, agricultura e tecnologias. Seria uma honra fazer parte de uma equipe que compartilha desse mesmo propósito!
