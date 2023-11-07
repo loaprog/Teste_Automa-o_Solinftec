@@ -20,11 +20,11 @@ Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
 
 - Rodando com imagens diferentes:
    
-![image](https://github.com/loaprog/Teste_Automa-o_Solinftec/assets/75463070/320e819d-d54e-49b6-a91a-45ca89d1132f)
+![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/e3392535-ffe7-41c4-8455-084648c50388)
 
 - Rodando com uma das imagens iguais:
   
-![image](https://github.com/loaprog/Teste_Automa-o_Solinftec/assets/75463070/015de3bb-ead9-48a0-8c88-08191f89b628)
+![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/0777d6c7-ee55-4a28-96ce-45af9b467c62)
 
 3. No terceiro método, utilizei o OpenCV para calcular a diferença entre os pixels em duas imagens e estabeleci que se a diferença entre os pixels de duas imagens fosse menor que 30, elas seriam consideradas semelhantes.
    
