@@ -30,10 +30,10 @@ Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
    
 - Rodando com imagens diferentes:
    
-![image](https://github.com/loaprog/Teste_Automa-o_Solinftec/assets/75463070/a1d1a5f7-e52b-457e-ac5c-739746da6c77)
+![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/b379dea7-0795-4761-97d4-e145d7ce59c8)
 
 - Rodando com uma das imagens iguais:
   
-![image](https://github.com/loaprog/Teste_Automa-o_Solinftec/assets/75463070/7ab41d6e-ddc1-42c0-843e-dead48a34117)
+![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/a5d5e260-dd08-4097-9fb4-903879c08d2b)
 
 Tenho uma dedicação inabalável por desafios, agricultura e tecnologias. Seria uma honra fazer parte de uma equipe que compartilha desse mesmo propósito!
