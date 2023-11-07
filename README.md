@@ -16,7 +16,7 @@ Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
   
 ![image](https://github.com/loaprog/Teste_Automa-o_Solinftec/assets/75463070/291b43c4-5db1-49fa-95c3-faf0539a9d1e)
 
-2. No segundo método, com o TensorFlow realizei a transformação das imagens em dados tensoriais, posteriormente convertendo-os em vetores para melhorar a eficiência computacional e de armazenamento. Procurei outras imagens que tivessem essa mesma correlação para declará-las como semelhantes. Caso não houvesse semelhança com alguma imagem, ela seria considerada diferente.
+2. No segundo método, com o TensorFlow realizei a transformação das imagens em dados tensoriais, posteriormente convertendo-os em vetores para melhorar a eficiência computacional e de armazenamento. Procurei outras imagens que tivessem essa mesma correlação de dados para declará-las como semelhantes. Caso não houvesse semelhança com alguma imagem, ela seria considerada diferente.
 
 - Rodando com imagens diferentes:
    
