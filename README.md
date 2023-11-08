@@ -43,5 +43,3 @@ Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
 Altere o caminho para localizar as imagens e embaralhe-as para testar o script.
 
 ![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/6d04b402-979f-48fd-ad02-9782ef64cd7d)
-
-Tenho uma dedicação inabalável por desafios, agricultura e tecnologias. Seria uma honra fazer parte de uma equipe que compartilha desse mesmo propósito!
