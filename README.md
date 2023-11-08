@@ -3,6 +3,10 @@ Nesse desafio o objetivo era automatizar o processo de identificar semelhanças 
 é particularmente útil em diversas aplicações, como reconhecimento de padrões, verificação de autenticidade de documentos, detecção 
 de plágio, entre outros.
 
+- As imagens fornecidas para avaliar essa semelhança ou diferença foram as seguintes:
+
+![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/c9763795-cf8f-44c1-a483-b02a6097ddd3)
+
 ## Caminho tomado para atingir o objetivo
 Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
 
