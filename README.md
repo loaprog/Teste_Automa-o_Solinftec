@@ -10,7 +10,7 @@ de plágio, entre outros.
 ## Caminho tomado para atingir o objetivo
 Utilizei três métodos, em cada um aplicando técnicas de visão computacional:
 
-1. No primeiro método, utilizei os índices de Sensoriamento Remoto para visualizar a biomassa da vegetação nas imagens RGB e diferenciar entre o solo exposto e a biomassa foliar. Para isso, utilizei o Índice de Folha Verde (GLI). Em seguida, calculei a quantidade de pixels que representavam o solo exposto e a biomassa da planta. Caso outra imagem apresentasse a mesma quantidade de pixels dessas duas categorias, seria declarada como semelhante; caso contrário, seria considerada diferente.
+1. No primeiro método, utilizei os índices de Sensoriamento Remoto para visualizar a biomassa da vegetação nas imagens RGB e diferenciar entre o solo exposto (vermelho) e a biomassa foliar (verde). Para isso, utilizei o Índice de Folha Verde (GLI). Em seguida, calculei a quantidade de pixels que representavam o solo exposto e a biomassa da planta. Caso outra imagem apresentasse a mesma quantidade de pixels dessas duas categorias, seria declarada como semelhante; caso contrário, seria considerada diferente.
 
 ![image](https://github.com/loaprog/Teste_Automacao_Solinftec/assets/75463070/c0fc1402-7237-4599-ae30-5aac85ada653)
 
