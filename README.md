@@ -1,4 +1,4 @@
-## Desafio Automação Solinftec
+## Desafio Automação
 Nesse desafio o objetivo era automatizar o processo de identificar semelhanças ou diferenças entre duas ou mais imagens. Essa tarefa
 é particularmente útil em diversas aplicações, como reconhecimento de padrões, verificação de autenticidade de documentos, detecção 
 de plágio, entre outros.
